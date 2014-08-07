@@ -7,9 +7,13 @@
 		<result-types>
 			<result-type name="tiles" class="org.apache.struts2.views.tiles.TilesResult" />
 		</result-types>
-		<action name="*Link" method="{1}" class="com.tutorials4u.actions.LinkAction">
+		<action name="welcomeLink" method="welcome" class="com.tutorials4u.actions.LinkAction">
 			<result name="welcome" type="tiles">welcome</result>
+		</action>
+		<action name="strutsLink" method="struts" class="com.tutorials4u.actions.LinkAction">
 			<result name="struts" type="tiles">struts</result>
+		</action>
+		<action name="hibernateLink" method="hibernate" class="com.tutorials4u.actions.LinkAction">
 			<result name="hibernate" type="tiles">hibernate</result>
 		</action>
 	</package>
