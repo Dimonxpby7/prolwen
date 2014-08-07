@@ -9,6 +9,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <p>Struts Tutorial !!!</p>
+        <p>Dimon! !!!</p>
     </body>
 </html>
