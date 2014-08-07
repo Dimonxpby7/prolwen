@@ -4,11 +4,13 @@
    "http://www.w3.org/TR/html4/loose.dtd">
 
 <html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
-    </head>
-    <body>
-        <p>Dimon! !!!</p>
-    </body>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>JSP Page</title>
+</head>
+<body>
+	<p>Shob ne bulo crasne!</p>
+	<a href="http://javahonk.com/javax-servlet-http-httpservlet-was-not-found-on-the-java-build-path/"
+		class="wp_rp_title">Create Run Dynamic Web Project Eclipse</a>
+</body>
 </html>
