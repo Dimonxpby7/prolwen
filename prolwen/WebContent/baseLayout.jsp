@@ -16,7 +16,7 @@
 }
 
 .mainHeader {
-	background-color: #FF9900;
+	background-color: #00CCFF;
 	border-bottom: 1px solid #222222;
 	height: 49px;
 	left: 0;
@@ -26,7 +26,7 @@
 }
 
 .mainMenu {
-	background-color: #000000;
+	background-color: #FFDDFF;
 	bottom: 0;
 	left: 0;
 	position: absolute;
@@ -35,7 +35,7 @@
 }
 
 .mainContent {
-	background-color: #FFFFFF;
+	background-color: #FFFF00;
 	bottom: 50px;
 	left: 260px;
 	position: absolute;
