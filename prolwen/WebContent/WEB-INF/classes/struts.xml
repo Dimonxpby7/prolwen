@@ -13,4 +13,12 @@
 			<result name="hibernate" type="tiles">hibernate</result>
 		</action>
 	</package>
+	
+	<!-- http://localhost:8080/TilesIntegrationExample/common/SayWelcome.action -->
+	<package name="common" namespace="/common" extends="struts-default">
+	<action name="SayWelcome">
+		<result>welcome.jsp</result>
+	</action>
+</package>
+	
 </struts>
